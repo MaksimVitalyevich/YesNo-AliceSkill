@@ -25,7 +25,7 @@ Supports multiple endings and tracks discovered endings locally.
 1. Install [Node.js](https://nodejs.org) (v14+ recommended) AND following dependencies:
 -  [express](https://www.npmjs.com/package/express)
 -  [yandex-dialogs-sdk](https://www.npmjs.com/package/yandex-dialogs-sdk)
-2. Clone and download this repository from here;
+2. Clone and download this repository from [GitHub](https://github.com/MaksimVitalyevich/YesNo-AliceSkill);
 3. Open terminal, inside project folder;
 4. Install dependencies manually:
    ```bash
