@@ -27,6 +27,9 @@ Supports multiple endings and tracks discovered endings locally.
 -  [yandex-dialogs-sdk](https://www.npmjs.com/package/yandex-dialogs-sdk)
 2. Clone and download this repository from [GitHub](https://github.com/MaksimVitalyevich/YesNo-AliceSkill);
 3. Open terminal, inside project folder;
+- for command, use:
+   ```bash
+   cd Your/Path/To/Project
 4. Install dependencies manually:
    ```bash
    npm install express yandex-dialogs-sdk
