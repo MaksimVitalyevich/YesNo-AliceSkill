@@ -5,6 +5,7 @@ Multifunctional multilanguage Yes or No minigame for Alice audiostation.
 A compact interactive minigame for Alice smart speaker or local console testing.
 Players make decisions using only "yes" or "no" responses to progress through the story.
 Supports multiple endings and tracks discovered endings locally.
+
 *Warning: requires "express" and "yandex-dialogs-sdk" to work!*
 
 ## Features
