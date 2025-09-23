@@ -32,7 +32,7 @@ Supports multiple endings and tracks discovered endings locally.
 5. Run the project for **console testing**:
    ```bash
    node index.js
-*Console works as additional setup for Alice device*
+   *Console works as additional setup for Alice device*
 6. For Alice skill deployment, configure `index.js` on your server and set up the Yandex Dialogs webhook.
 
 ## Notes:
