@@ -29,7 +29,7 @@ Supports multiple endings and tracks discovered endings locally.
 3. Open terminal, inside project folder;
 - for command, use:
    ```bash
-   cd Your/Path/To/Project
+   cd Your\Path\To\Project
 4. Install dependencies manually:
    ```bash
    npm install express yandex-dialogs-sdk
