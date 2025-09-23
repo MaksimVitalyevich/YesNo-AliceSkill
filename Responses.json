@@ -1,0 +1,17 @@
+{
+    "meta": { "client_id": "local-test", "locale": "ru-RU", "timezone": "Europe/Moscow" },
+    "request": { 
+        "command": "сыграем в мини-игру", 
+        "original_utterance": "сыграем в мини-игру", 
+        "type": "SimpleUtterance",
+        "nlu": { "tokens": ["сыграем","в","мини-игру"], "entities": [] }
+    },
+    "session": {
+        "new": true,
+        "message_id": 0,
+        "session_id": "test-session",
+        "skill_id": "test-skill",
+        "user_id": "user-maksim"
+    },
+    "version": "1.0"
+}
