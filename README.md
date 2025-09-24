@@ -1,6 +1,10 @@
 # YesNo-AliceSkill
 Multifunctional multilanguage Yes or No minigame for Alice audiostation.
 
+## Changelog
+Updated to Version 1.5;
+- Expanded quest story and changed/added game endings.
+
 ## Description
 A compact interactive minigame for Alice smart speaker or local console testing.
 Players make decisions using only "yes" or "no" responses to progress through the story.
