@@ -49,4 +49,4 @@ Supports multiple endings and tracks discovered endings locally.
 - User **must manually install dependencies**, it's normal for Node.js projects.
 - The console mode works independently and does NOT require Alice or any audio station.
 
-**Current version:** 1.0;
+**Current version:** 1.5;
