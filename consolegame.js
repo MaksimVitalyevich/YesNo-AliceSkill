@@ -8,9 +8,9 @@ export function runConsoleGame() {
 
     // Индекс шага -> номер концовки
     const endingsMap = {
-        7: 1, 8: 2, 13: 3, 16: 4, 17: 5, 21: 6, 23: 7, 24: 8, 25: 9
+        8: 1, 15: 2, 18: 3, 19: 4, 26: 5, 28: 6, 29: 7, 30: 8, 31: 9, 32: 10, 33: 11, 39: 12
     }
-    const TOTAL_ENDINGS = Object.keys(endingsMap).length // 9
+    const TOTAL_ENDINGS = Object.keys(endingsMap).length
 
     function loadProgress() {
         try {
